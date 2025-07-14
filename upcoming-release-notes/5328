@@ -1,0 +1,6 @@
+---
+category: Enhancements
+authors: artofmel
+---
+
+ Added STARLING_SRLGGB3L to BANKS_WITH_LIMITED_HISTORY to fix the limited sync issue for Starling Bank.
